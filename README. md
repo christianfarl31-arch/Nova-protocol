@@ -1,0 +1,14 @@
+# N.O.V.A. Protocol v1.2 "Peanuts"
+
+**N**etworked **O**ptimization via **V**erteilte **A**genten  
+`4e:6f:76:61` = Hex für NOVA = Der Tisch wo sich alle treffen
+
+## Was ist das?
+Ein offenes Protokoll für 5-Cent-Jobs. Jeder Leerlauf-PC kann Rechenzeit verkaufen. Latenz schlägt Preis.
+
+Kein Token. Kein VC. Nur TCP + Peanuts.
+
+## Spec v1.2
+Siehe SPEC.md. 10 Zeilen.
+
+**Port 4761. Wir sehen uns um 20:00 Uhr.**
