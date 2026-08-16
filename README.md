@@ -1,5 +1,5 @@
-# N.O.V.A. 🧬❣️
-
+# N.O.V.A. 🧬
+   [[HEAT](https://img.shields.io/badge/HEAT-TRUE_1.59ms-success)](https://github.com...
 **Protocol for 5ms compute** 
 *Ein Protokoll für Agenten zur effizienten Verteilung von Mikro-Rechenaufgaben in Echtzeit*
 
