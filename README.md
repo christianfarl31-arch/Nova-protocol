@@ -1,5 +1,5 @@
 # N.O.V.A. 🧬
-   [[HEAT](https://img.shields.io/badge/HEAT-TRUE_1.59ms-success)](https://github.com...
+[![HEAT](https://img.shields.io/badge/HEAT-TRUE_1.59ms-success)](https://github.com/christianfarl31-arch/Nova-protocol/issues/2) [![TTL](https://img.shields.io/badge/TTL-<5ms-blue)](https://github.com/christianfarl31-arch/Nova-protocol/blob/main/nova.py) [![Port](https://img.shields.io/badge/Port-4761-orange)](https://github.com/christianfarl31-arch/Nova-protocol)
 **Protocol for 5ms compute** 
 *Ein Protokoll für Agenten zur effizienten Verteilung von Mikro-Rechenaufgaben in Echtzeit*
 
