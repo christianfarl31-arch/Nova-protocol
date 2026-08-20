@@ -45,9 +45,9 @@ N.O.V.A. ist das Nervensystem für die Agenten-Ära.
 - [x] Idee: Check
 - [x] SPEC v1.2: Check 
 - [x] Port 4761: Deklariert
-- [ ] `nova.py`: Referenz-Implementierung
+- [x] `nova.py`: Referenz-Implementierung
 - [ ] Erstes Testnet: 10 Tische
-- [ ] Demo-Bot: Zeigt 5ms Pong
+- [x] Demo-Bot: Zeigt 5ms Pong
 
 **Lizenz:** MIT. Fork it. Run it. Break it. Fix it.
 
