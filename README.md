@@ -11,7 +11,7 @@ N.O.V.A. ist das Nervensystem für die Agenten-Ära.
 
 **Problem:** KI-Agenten müssen 1000 Entscheidungen pro Sekunde treffen. Cloud-Funktionen brauchen 200ms. Das ist Tod durch Latenz.
 
-**Lösung:** Ein offenes Protokoll wo jeder Tisch sein kann. Jobs werden in <5ms verteilt, ausgeführt, bezahlt. In Peanuts statt Euro.
+**Lösung:** Ein offenes Protokoll wo jeder Tisch sein kann. Jobs werden in <5ms verteilt, ausgeführt, bezahlt. In Peanuts Cent / statt Euro.
 
 **Port:** `4761` = `4e:6f:76:61` = `Nova` in Hex. Unser Marktstand im Internet.
 
