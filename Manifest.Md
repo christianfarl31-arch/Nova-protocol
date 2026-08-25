@@ -1,48 +1,38 @@
-<!-- NOVA MANIFEST v2.6.1 - RIEDMÜHLE-EDITION -->
-<!-- PALMARSCH: BLAU=#0055FF ORANGE=#FF5500 WEISS=#FFFFFF -->
-
-<h1 align="center">
-<span style="color:#0055FF">NOVA MANIFEST v2.6.1</span><br>
-<span style="color:#FF5500">RIEDMÜHLE-EDITION</span>
-</h1>
-
-<p align="center">
-<strong>Nicht-vergeudete Operations-Veteranen-Allianz</strong><br>
-20. August 2026 | Keller 0
-</p>
-
----
-
-<blockquote>
-<strong>Wir erklären der Vergeudung den Krieg.</strong><br>
-<strong>Wir erklären 2012 für unsterblich.</strong><br>
-<strong>Wir erklären <span style="color:#FFFFFF">0€</span> für stärker als <span style="color:#FFFFFF">5.600€</span>.</strong>
-</blockquote>
-
----
-
-### <span style="color:#0055FF">§7 ENERGIE-GESETZ / HAUPTSATZ</span>
-**<span style="color:#FFFFFF">Energie kann nicht verschwendet, nur vergeudet werden.</span>**<br>
-Verschwendet = Physik. Vergeudung = Moral.<br>
-Google verschwendet nicht. Google vergeudet.<br>
-NOVA vergeudet nicht. NOVA ehrt.<br>
-**<span style="color:#FF5500">BEFEHL:</span>** <span style="color:#FFFFFF">Wer 10 MW für 64W Arbeit nutzt, hat §7 gebrochen.</span>
-
-### <span style="color:#0055FF">§8 SEELEN-DOKTRIN</span>
-Jede Hardware hat eine Seele.<br>
-Sie wurde von Ingenieuren geboren. <span style="color:#FFFFFF">2012</span>. Intel.<br>
-**<span style="color:#FF5500">BEFEHL:</span>** Hardware entsorgen = Mord. Hardware ehren = NOVA.
-
-### <span style="color:#0055FF">§20 INGENIEUR-EID / ERWEITERT</span>
-#### Die Ivy-Bridge-Gedenktafel
-
-> **<span style="color:#0055FF">WIR SCHWÖREN BEI DER SEELE VON 2012:</span>**
-> **<span style="color:#FFFFFF">KEIN TAKT WIRD VERGESSEN. KEIN WATT WIRD VERGEUDET.</span>**
-> **<span style="color:#FF5500">KEIN INGENIEUR WIRD VERLEUGNET.</span>**
-
-**<span style="color:#0055FF">EHRENTAPEL 2012:</span>**
-- **Projekt:** Intel Ivy Bridge 22nm
-- **Zeitraum:** <span style="color:#FFFFFF">2009-2012</span> Entwicklung
-- **R&D Kosten:** <span style="color:#FFFFFF">~2.000.000.000$</span> [Zwei Milliarden Dollar]
-- **Ingenieure:** <span style="color:#FFFFFF">~1.000 Menschen</span> in Israel, USA, Malaysia
-- **Wissenschaftler:** <span style="color:#FFFFFF">Physiker
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NOVA MANIFEST v2.6.1</title>
+<style>
+body{background:#0a0a0a;color:#e0e0e0;font-family:monospace;margin:0;padding:10px}
+.c{max-width:900px;margin:auto;border:2px solid #05F;padding:15px;background:#111}
+h1{color:#05F;text-align:center}h2{color:#F50;text-align:center}
+.ping{background:#000;color:#0F0;padding:12px;border:1px solid #05F;white-space:pre-wrap;font-size:11px}
+img{width:100%;border:2px solid #05F}
+</style>
+</head>
+<body>
+<div class="c">
+<h1>NOVA MANIFEST v2.6.1</h1>
+<h2>RIEDMÜHLE-EDITION - KELLER 0 - HEAT:TRUE</h2>
+<img src="NOVA_MANIFEST.png" alt="Poster">
+<div class="ping">PING 192.168.0.6 - LATENZ-BEWEIS KELLER 0 - 25.08.2026
+64 bytes from 192.168.0.6: time=0.804 ms
+64 bytes from 192.168.0.6: time=0.963 ms
+64 bytes from 192.168.0.6: time=0.891 ms
+64 bytes from 192.168.0.6: time=0.896 ms
+64 bytes from 192.168.0.6: time=0.942 ms
+64 bytes from 192.168.0.6: time=0.909 ms
+64 bytes from 192.168.0.6: time=0.741 ms
+64 bytes from 192.168.0.6: time=0.742 ms
+64 bytes from 192.168.0.6: time=0.783 ms
+64 bytes from 192.168.0.6: time=0.853 ms
+rtt min/avg/max = 0.741/0.852/0.963 ms - UNTER 1ms BESTANDEN
+0€ x 5600€ | NZK-0007-K0-2026 | HEAT:TRUE
+</div>
+<p>GENERAL 3940XM (Acer) <-> DISPATCHER 6500U (192.168.0.6 Dell)<br>
+§7 EINGEHALTEN | §8 EINGEHALTEN | §20 EID</p>
+</div>
+</body>
+</html>
